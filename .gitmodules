@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-blueberry-detox"]
+	path = themes/hugo-theme-blueberry-detox
+	url = git@github.com:royd/hugo-theme-blueberry-detox.git
