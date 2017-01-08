@@ -3,4 +3,12 @@ languageCode: "en-us"
 title: "Roy Dammarell"
 baseurl: "http://roydammarell.com/"
 theme: "hugo-theme-blueberry-detox"
+params:
+  creditBadges:
+    netlify:
+      src: "https://www.netlify.com/img/global/badges/netlify-light.svg"
+      href: "https://www.netlify.com"
+    github:
+      src: "/github-logo.png"
+      href: "https://github.com/royd/portfolio"
 ...
