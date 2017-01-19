@@ -12,4 +12,4 @@ Highlighting text is a core feature of the Logos Bible app. The swipe-to-highlig
 
 For convenience, the selection automatically snaps to word boundaries, but more fine-grained control is still available by creating a standard text selection, then choosing highlight from the context menu.
 
-Utilizing the API's written by our text display team, I implemented the Java and c++ JNI layers necessary for integration of the visual highlight, gestures, and associated preference.
+Utilizing the API's written by our text display team, I implemented the Java and c++ JNI layers necessary for integration of the visual highlight, gestures, and associated preference.<!--more-->
