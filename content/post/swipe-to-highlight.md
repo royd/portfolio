@@ -3,7 +3,7 @@ date = "2016-12-26T16:01:21-08:00"
 title = "Swipe to Highlight"
 list_item_layout = "list-item-media-left"
 
-media_src = "intro-screens"
+media_src = "swipe-to-highlight"
 media_title = "Swipe to Highlight"
 media_type = "video"
 +++
