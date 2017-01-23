@@ -1,14 +1,14 @@
 +++
 date = "2016-12-26T16:01:21-08:00"
 title = "Swipe to Highlight"
-list_item_layout = "list-item-media-left"
+list_item_layout = "list-item-media-right"
 
 media_src = "swipe-to-highlight"
 media_title = "Swipe to Highlight"
 media_type = "video"
 +++
 
-Highlighting text is a core feature of the Logos Bible app. The swipe-to-highlight feature enables quick highlighting without the need to drag selection handles. Simply long press to select a word, then drag outside the word boundary to automatically start highlighting.
+Highlighting text is a core feature of the [Logos Bible](https://play.google.com/store/apps/details?id=com.logos.androidlogos) app. The swipe-to-highlight feature enables quick highlighting without the need to drag selection handles. Simply long press to select a word, then drag outside the word boundary to automatically start highlighting.
 
 For convenience, the selection automatically snaps to word boundaries, but more fine-grained control is still available by creating a standard text selection, then choosing highlight from the context menu.
 
